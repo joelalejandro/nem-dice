@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "A dice thrower.",
   "main": "index.js",
+  "repository": "https://github.com/joelalejandro/nem-dice",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
