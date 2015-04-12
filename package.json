@@ -1,6 +1,6 @@
 {
   "name": "nem-dice",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A dice thrower.",
   "main": "index.js",
   "repository": {
