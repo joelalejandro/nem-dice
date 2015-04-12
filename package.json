@@ -1,0 +1,19 @@
+{
+  "name": "nem-dice",
+  "version": "0.0.1",
+  "description": "A dice thrower.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dice",
+    "throw",
+    "random"
+  ],
+  "author": "Joel A. Villarreal Bertoldi",
+  "license": "MIT",
+  "dependencies": {
+    "nem-random-mwc": "0.0.1"
+  }
+}
